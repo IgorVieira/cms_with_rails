@@ -18,6 +18,7 @@ gem 'devise', '~> 4.2'
 gem 'active_skin'
 gem 'activeadmin', github: 'activeadmin'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
 
 
 group :development, :test do
